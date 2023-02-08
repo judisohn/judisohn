@@ -1,9 +1,9 @@
 ### Hi!
 
-Like everything else in my life, this is a work in progress...
+I'm an authentic, results-oriented community builder. I've spent the last 20 years of my career focused on building community and demonstrating courageous advocacy to solve problems at scale. I am known for my empathy, technical curiosity, and get-it-done-together leadership style.  
 
-I've had quite the professional journey from a degree in Graphic Design, to starting nonprofit organizations, to nonprofit technology, to Salesforce community and consulting, and finally to the Salesforce mother ship. I am currently open for new opportunity. [Here's my LinkedIn profile](https://www.linkedin.com/in/judisohn).
+I've had quite the professional journey from a degree in Graphic Design, to starting nonprofit organizations, to nonprofit technology, to Salesforce open source community and serving organizations in the social impact sector, and finally to the Salesforce mother ship. 
 
-Most people know me for my obsession with knitting. Like seriously. I learned how to knit as a kid, got into it again in college, and then again in 2008. I complete at least 10 adult garments a year and I love traveling to yarn stores, conferences, and festivals. [Here's my Ravely profile](https://www.ravelry.com/people/judisohn). I also post knitting to my [Instagram profile](https://www.instagram.com/judisohn/) when I finish things. 
+I am currently open for new opportunity. [Here's my LinkedIn profile](https://www.linkedin.com/in/judisohn).
 
-I have a Facebook and Twitter profile, but neither are publicly visible. The best place to find me on social media is [Mastodon](https://mas.to/@judisohn).
+The best place to find me on social media is [Mastodon](https://mas.to/@judisohn).
